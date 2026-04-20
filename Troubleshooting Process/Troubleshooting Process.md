@@ -7,7 +7,7 @@ Therefore, the troubleshooting method should be guided by structured methods.
 The OSI and TCP/IP models can be applied to isolate network problems when troubleshooting. For example, if the symptoms
 are related with physical connection, then you can focus on the physical layer, and so on.
 
-![OSI Model and devices related to those layers](../images/Troubleshooting with Layered Models.png)
+![OSI Model and devices related to those layers](../images/Troubleshooting%20with%20Layered%20Models.png)
 
 ## Structured Troubleshooting Methods
 There are several structured troubleshooting approaches that can be used. Which one to use will depend
@@ -19,4 +19,4 @@ on the situation.
 ## Guidelines for Selecting a Troubleshooting Method
 To quickly resolve problems, take the time to select the most effective network troubleshooting
 method.
-![Guidelines for Selecting Troubleshooting Method](../images/Guidelines for Selecting Troubleshooting Method.png)
+![Guidelines for Selecting Troubleshooting Method](../images/Guidelines%20for%20Selecting%20Troubleshooting%20Method.png)
