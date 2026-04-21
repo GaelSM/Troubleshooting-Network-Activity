@@ -65,44 +65,34 @@ We'll se the most common issues that you will find when troubleshooting a networ
 <table>
     <thead>
         <tr>
-            <th> Symptom </th>
+            <th> Problem </th>
             <th> Description </th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td></td>
+            <td>Connectivity issues</td>
             <td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Check for equipment</li>
+                    <li>Check layer 1 problems such as cabling, bad ports</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td></td>
+            <td>Routing table</td>
             <td>
                 <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Check the routing table for anything unexpected, such as missing routes or unexpected routes</li>
+                    <li>Use debug commands to view routing updates and routing table maintenance</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td></td>
+            <td>Neighbor issues</td>
             <td>
                 <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
+                    <li>If the routing protocol establishes an adjacency with a neighbor, check to see if there are any problems with the routers forming neighbor adjacency</li>
                 </ul>
             </td>
         </tr>
