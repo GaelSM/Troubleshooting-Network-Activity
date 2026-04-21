@@ -5,7 +5,7 @@ We'll se the most common issues that you will find when troubleshooting a networ
 <table>
     <thead>
         <tr>
-            <th> Symptom </th>
+            <th> Problem </th>
             <th> Description </th>
         </tr>
     </thead>
@@ -27,6 +27,15 @@ We'll se the most common issues that you will find when troubleshooting a networ
                 </ul>
             </td>
         </tr>
+         <tr>
+            <td>Interface Configuration</td>
+            <td>
+                <ul>
+                    <li>Interface is not turned on</li>
+                    <li>Incorrect IP address</li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
 
@@ -34,44 +43,18 @@ We'll se the most common issues that you will find when troubleshooting a networ
 <table>
     <thead>
         <tr>
-            <th> Symptom </th>
+            <th> Problem </th>
             <th> Description </th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Loss of connectivity</td>
+            <td>STP Loops</td>
             <td>
                 <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td></td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
+                    <li>Link between two switches goes up or down</li>
+                    <li>Port is flapping (oscillating between up and down states)</li>
+                    <li>Mismatch between the real and documented topology</li>
                 </ul>
             </td>
         </tr>
@@ -88,7 +71,7 @@ We'll se the most common issues that you will find when troubleshooting a networ
     </thead>
     <tbody>
         <tr>
-            <td>Loss of connectivity</td>
+            <td></td>
             <td>
                 <ul>
                     <li></li>
@@ -136,7 +119,7 @@ We'll se the most common issues that you will find when troubleshooting a networ
     </thead>
     <tbody>
         <tr>
-            <td>Loss of connectivity</td>
+            <td></td>
             <td>
                 <ul>
                     <li></li>
